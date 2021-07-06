@@ -1,0 +1,55 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.half-wight{
+    width: 50%;
+    margin-bottom: 80px;
+}
+.header{
+    text-transform: capitalize;
+}
+section{
+    display: flex;
+    margin: 50px;
+}
+img{
+    max-width: 90%;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+    text-transform: capitalize;
+}
+span{
+    color: orange;
+}
+a{
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
+    padding: 10px 30px;
+}
+.about{
+    background-image: url(./images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.about-pic{
+    margin-left: 50px;
+    
+}
+.recipe{
+    text-align: center;
+    margin: 0px 200px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 150px;
+    text-align: center;
+}
