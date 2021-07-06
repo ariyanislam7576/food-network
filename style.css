@@ -80,3 +80,10 @@ footer{
     box-shadow: 10px 10px 5px #aaaaaa;
     border-radius: 10px;
 }
+.best-offer{
+    background-image: url(./images/Frame\ 59.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
