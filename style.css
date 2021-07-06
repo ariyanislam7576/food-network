@@ -1,5 +1,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    
 }
 .half-wight{
     width: 50%;
@@ -47,9 +49,34 @@ a{
     text-align: center;
     margin: 0px 200px;
 }
+
 footer{
     background-color: black;
     color: white;
     padding: 150px;
     text-align: center;
+    margin: 0;
+}
+#recipe1{
+    margin-left: 20px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 10px;
+}
+#recipe2{
+    margin-left: 20px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 10px;
+}#recipe3{
+    margin-left: 20px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 10px;
 }
